@@ -207,14 +207,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **CSS Community**: Modern styling techniques
 - **Open Source Community**: Inspiration and best practices
 
-## 📞 Support
-
-If you have any questions or need help:
-
-- **Issues**: Create an issue on GitHub
-- **Email**: contact@example.com
-- **Documentation**: Check the code comments
-
 ---
 
 **Made with ❤️ using React**
