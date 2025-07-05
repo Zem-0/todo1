@@ -41,6 +41,12 @@ A beautiful, responsive task management application built with React. Organize y
 - **Smooth Animations**: Hover effects and transitions
 - **Responsive Design**: Works perfectly on all screen sizes
 
+### 🎨 **Demo**
+![Demo Screenshot]([path/to/image.png](https://github.com/Zem-0/todo1/blob/main/public/Screenshot%202025-07-05%20134734.png))
+
+
+  
+
 ## 🚀 Quick Start
 
 ### Prerequisites
