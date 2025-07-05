@@ -24,8 +24,18 @@ function App() {
   };
 
   const handleLogout = () => {
-    localStorage.removeItem('username');
+    // Clear all localStorage data
+    localStorage.clear();
+    
+    // Clear sessionStorage if any
+    sessionStorage.clear();
+    
+    // Reset username state
     setUsername(null);
+    
+    // Reset theme to default (light)
+    setIsDark(false);
+    document.documentElement.setAttribute('data-theme', 'light');
   };
 
   const handleToggleTheme = () => {

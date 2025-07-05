@@ -215,6 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **CSS Community**: Modern styling techniques
 - **Open Source Community**: Inspiration and best practices
 
+
 ---
 
 **Made with ❤️ using React**
